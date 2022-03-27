@@ -59,7 +59,7 @@ http {
 2. Операционные системы Windows и Linux
 3. Редактор кода visual studio code
 
-![Screenshot](https://downloader.disk.yandex.ru/preview/ed4bcc03d0714b2ae7a9e545a710c204d29d071b523da91fb52b5260da87a257/623f254d/1UhUPE9nNjY92pDL2XYx2eB9fvNP8EPI-I-Mwu88zC54funShvLcbGJzbmuJUXvRoMkD3P3YhL6vQPcpWRt0mw%3D%3D?uid=0&filename=2022-03-26_16-31-22.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
+![Screenshot](https://i.ibb.co/HTq26F7/2022-03-26-16-31-22.jpg)
 
 ## Cсылки на использованные источники
 - [docs.github.com](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections) - инструкция по созданию раскрывающейся секции.
